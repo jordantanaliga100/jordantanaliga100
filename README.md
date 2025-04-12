@@ -5,13 +5,12 @@
 ## 🚀 Core Competencies
 ```javascript
 const myStack = {
-  languages: ["JavaScript", "TypeScript", "Python"],
+  languages: ["JavaScript", "TypeScript", "Nodejs"],
   frameworks: {
     backend: ["Node.js", "Express", "NestJS"],
     frontend: ["React", "Next.js",],
     testing: ["Jest"]
   },
-  payments: ["Stripe", "PayPal"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
   devOps: ["Docker", "AWS"]
 };
@@ -32,12 +31,6 @@ const myStack = {
 - Express middleware benchmarking
 - Next.js SSR stress analysis
 
-## 💡 Current Experiments
-| Area              | Technologies                 |
-|-------------------|------------------------------|
-| Web3 Payments     | Ethers.js, Web3.py           |
-| AI APIs           | LangChain, OpenAI integrations|
-| Edge Functions    | Cloudflare Workers, Deno Deploy |
 
 ## 🌱 Learning Now
 - NestJS microservices advanced patterns
