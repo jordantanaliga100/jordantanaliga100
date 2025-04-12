@@ -26,10 +26,6 @@ const myStack = {
 - Reduced payment processing latency by 62%
 ```
 
-### Web App Simulations
-- Node.js cluster performance testing
-- Express middleware benchmarking
-- Next.js SSR stress analysis
 
 
 ## 🌱 Learning Now
@@ -38,10 +34,12 @@ const myStack = {
 ## 📫 Collaboration Channels
 - **Tech Discussions**: `jordantanaliga100@gmail.com`
 - **Freelance Inquiries**: `jordantanaliga100@gmail.com`
-- **Code Reviews**: [![CodeReview](https://img.shields.io/badge/Request_Review-Here-brightgreen)](https://github.com/jordanpastan/reviews)
 
+
+```
+- **Code Reviews**: [![CodeReview](https://img.shields.io/badge/Request_Review-Here-brightgreen)](https://github.com/jordanpastan/reviews)
 ## 📊 Profile Metrics
 ![Monthly Simulations](https://img.shields.io/badge/Monthly_Simulations-8+-blueviolet)
 ![Payment Systems](https://img.shields.io/badge/Payment_Integrations-15+-success)
 ![Web Apps Built](https://img.shields.io/badge/Production_Apps-23+-important)
-
+```
