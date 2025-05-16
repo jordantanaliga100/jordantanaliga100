@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan Pastan | Full-Stack Developer
+# 👋 Hi, I'm Jordan Pastan | Javascript Developer
 
 **Web Technology Specialist** focused on JavaScript ecosystems. I build and simulate production-grade web systems.
 
