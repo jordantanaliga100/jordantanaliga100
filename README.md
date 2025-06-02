@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan Pastan | Javascript Developer
+<!-- # 
 
 **Web Technology Specialist** focused on JavaScript ecosystems. I build and simulate production-grade web systems.
 
@@ -16,15 +16,21 @@ const myStack = {
 };
 
 ```
-![Tech Radar](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,nextjs,aws,docker,postgres,mongodb,redis,stripe)
+![Tech Radar](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,nextjs,aws,docker,postgres,mongodb,redis,stripe) 
+
+-->
+##### 👋 Hi, I'm Dan 👋
+  ###### JavaScript Developer | Lifelong Learner
+> _This account is for learning and growth._
 
 
-## 🌱 Learning Now
+###### 🌱 Learning Now...
 - NestJS microservices advanced patterns
-- AWS services
+- Devops practices and workflows 
+- AWS services in node
 - Advanced typescript 
 
-## 📫 Collaboration Channels
+###### 📫 Collaboration Channels
 - **Tech Discussions**: `jordantanaliga100@gmail.com`
 - **Freelance Inquiries**: `jordantanaliga100@gmail.com`
 
