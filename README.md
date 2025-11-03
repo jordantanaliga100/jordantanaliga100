@@ -25,9 +25,8 @@ const myStack = {
 
 
 ###### 🌱 Learning Now...
-- NestJS microservices advanced patterns
+- K8s 
 - Devops practices and workflows 
-- AWS services in node
 - Advanced typescript 
 
 ###### 📫 Collaboration Channels
